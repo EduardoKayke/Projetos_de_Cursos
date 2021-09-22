@@ -4,7 +4,7 @@
 
 </div>
 
-##### Olá, eu sou o Eduardo. Sou Desenvolvedor. Esse repositório serve como armazenamento para meus projetos nas mais diversas linguagens e ferramentas. <br><br>
+##### Olá, eu sou o Eduardo. Sou Desenvolvedor. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
 ---
 ### Nome Projeto
 #### O que ele é ou faz?
