@@ -1,10 +1,16 @@
-## Meus conhecimentos em Web Full Stack
+<div align="center">
 
-##### Olá, eu sou o Eduardo. Sou Desenvolvedor Web Full Stack. Seja bem vindo ao meu canto de estudos. Que este conhecimento possa ajudá-lo no futuro. Pois no presente estou correndo atrás do meu. 
-### Habilidades aprendidas durante o curso.
- - Git
- - GitHub
+## Projetos 
 
+</div>
+
+##### Olá, eu sou o Eduardo. Sou Desenvolvedor. Esse repositório serve como armazenamento para meus projetos nas mais diversas linguagens e ferramentas. <br><br>
+---
+### Nome Projeto
+#### O que ele é ou faz?
+#### Quais ferramentas?
+link pasta
+---
 > - Autores: 
 >   - [Eduardo Kayke](https://github.com/EduardoKayke "Perfil do Eduardo")
 
