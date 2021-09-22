@@ -4,11 +4,11 @@
 
 </div>
 
-##### Olá, eu sou o Eduardo. Sou Desenvolvedor. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
+##### Olá, eu sou o Eduardo. Sou um Desenvolvedor. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
 ---
 ### Nome Projeto
-#### O que ele é ou faz?
-#### Quais ferramentas?
+#### Quais ferramentas e tecnologias?
+#### Sobre o projeto.
 link pasta
 ---
 > - Autores: 
