@@ -3,8 +3,12 @@
 ## Projetos 
 
 </div>
+Olá, eu sou o Eduardo. Sou Desenvolvedor FullStack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas.
 
-##### Olá, eu sou o Eduardo. Sou Desenvolvedor FullStack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
+<div align = "center">
+   <img src="images/readme/cabecalho/projetos.png" alt="projetos" width="90"/>
+</div>
+
 ---
 ### Nome Projeto
 #### Quais ferramentas e tecnologias?
