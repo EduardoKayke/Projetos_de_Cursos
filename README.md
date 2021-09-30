@@ -18,9 +18,9 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
  - CSS.
 ### Sobre o projeto.
 Jogo desenvolvido no Visual Studio Code utilizando HTML, CSS e JavaScript. O game é muito famoso por ser o primeiro jogo desenvolvido pela Atari.
-```
-Clone esse repositório.
 
+Clone esse repositório.
+```
     git clone https://github.com/EduardoKayke/Projetos.git
 ```
 </div><br><br>
