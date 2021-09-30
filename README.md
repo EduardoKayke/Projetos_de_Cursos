@@ -4,7 +4,7 @@
 
 </div>
 
-##### Olá, eu sou o Eduardo. Sou um Desenvolvedor. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
+##### Olá, eu sou o Eduardo. Sou Desenvolvedor FullStack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. <br><br>
 ---
 ### Nome Projeto
 #### Quais ferramentas e tecnologias?
