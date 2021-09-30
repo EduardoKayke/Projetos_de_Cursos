@@ -22,7 +22,6 @@ Jogo desenvolvido no Visual Studio Code utilizando HTML, CSS e JavaScript. O gam
 Clone esse repositório.
 
     git clone https://github.com/EduardoKayke/Projetos.git
-
 ```
 </div><br><br>
 
