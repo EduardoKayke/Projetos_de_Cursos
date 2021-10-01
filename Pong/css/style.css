@@ -13,3 +13,26 @@ body {
     height: 720px;
     background-color: #19ffab;
 }
+
+.faixa1, .faixa2, .faixa3, .faixa4, .faixa5 {
+    position: absolute;
+    width: 150px;
+    height: 100%;
+    background-color: #73ffcc;
+}
+
+.faixa2 {
+    left: 300px;
+}
+
+.faixa3 {
+    left: 600px;
+}
+
+.faixa4 {
+    left: 900px;
+}
+
+.faixa5 {
+    left: 1200px;
+}
