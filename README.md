@@ -5,7 +5,7 @@
  <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/telegram.png" target='_blank' alt="telegram" height="70" width="70" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="images/linkedin.png" alt="linkedin" height="90" width="90" /></a> <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="images/sitepessoal.png" alt="site" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/computer-illustration.png" target='_blank' alt="computador" /></a><br><br>
 
 </div>
-Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. Os projetos estão em ordem de criação. Para que eu consigo comparar meus antigos projetos e ver minha própria evolução.
+Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. Os projetos estão em ordem de criação, do mais novo para o mais velho. Para que eu consiga comparar meus antigos projetos e ver minha própria evolução.
 <br><br>
 
 ---
@@ -15,6 +15,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 ## Sobre o projeto.
 Jogo desenvolvido no Visual Studio Code utilizando HTML, CSS e JavaScript. O game é muito famoso por ser o primeiro jogo desenvolvido pela Atari. <br><br>
+Data de conclusão: 00/00/0000<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -25,8 +26,16 @@ Jogo desenvolvido no Visual Studio Code utilizando HTML, CSS e JavaScript. O gam
 ### Clone esse repositório.
 ```
     git clone https://github.com/EduardoKayke/Projetos.git
-```
-</div><br><br>
+``` 
+<br>
+
+<div align="center">
+
+AQUI VAI UM GIF DO PROJETO
+
+</div>
+
+<br><br>
 
 ---
 
