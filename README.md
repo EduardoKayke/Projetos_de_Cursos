@@ -43,7 +43,7 @@ AQUI VAI UM GIF DO PROJETO
 # Digital Full Stack.
 
 ## Sobre o projeto.
-Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Criei um site para venda de cursos, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js.<br><br>
+Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Criei um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
 Data de conclusão: 08/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
