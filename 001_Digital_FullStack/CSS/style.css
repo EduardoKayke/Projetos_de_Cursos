@@ -1,7 +1,54 @@
 body {
-    background-color:  #ffffff, #4f4f4f;
+    font-family: Arial, Helvetica, sans-serif; 
+    background: #6f6f6f; 
+    margin: 0;
 }
 
-#principal {
-    
+.hero {
+    background-image: url(../img/foto_header.jpg);
+    height: 500px; /*Altura*/
+    background-position: center; /*Composição da imagem*/
+    background-size: cover; /*Cover = ocupar a área inteira mesmo que esconda um pouco da imagem*/
+}
+
+.hero-content {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 150px;
+}
+
+.hero-content h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px #000000;
+}
+
+main {
+    width: 80%; /*Largura*/
+    margin: auto; /*Centralizar*/
+}
+
+.content-section {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.content-header {
+    border-bottom: solid 2px #6f6f6f;
+    padding: 10px;
+}
+
+.content-header h2 {
+    margin: 0;
+}
+
+.rodape {
+    height: 50px;
+    line-height: 50px;
+    color:#ffffff;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 3px 3px 2px #000000;
+    background: #4f4f4f;
 }
