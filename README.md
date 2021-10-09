@@ -43,8 +43,10 @@ AQUI VAI UM GIF DO PROJETO
 # Digital Full Stack.
 
 ## Sobre o projeto.
-Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Criei um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
-Data de conclusão: 08/10/2021<br><br>
+Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Apenas a primeira página um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
+Data de conclusão: 09/10/2021<br>
+Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.github.io/" target="_blank">Digital Full Stack</a>
+<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -60,7 +62,39 @@ Data de conclusão: 08/10/2021<br><br>
 
 <div align="center">
 
-AQUI VAI UM GIF DO PROJETO
+<img src="images/Screenshot_3.png" alt="" width="400"/>
+<img src="images/projeto.gif" alt="" width="400"/>
+
+</div>
+
+<br><br>
+
+---<div>
+
+# Digital Full Stack.
+
+## Sobre o projeto.
+Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Apenas a primeira página um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
+Data de conclusão: 09/10/2021<br>
+Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.github.io/" target="_blank">Digital Full Stack</a>
+<br>
+## Ferramentas e tecnologias usadas nesse projeto.
+
+<div align="center">
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
+
+</div>
+
+### Clone esse repositório.
+```
+    git clone https://github.com/EduardoKayke/Projetos.git
+``` 
+<br>
+
+<div align="center">
+
+<img src="images/Screenshot_3.png" alt="" width="400"/>
+<img src="images/projeto.gif" alt="" width="400"/>
 
 </div>
 
