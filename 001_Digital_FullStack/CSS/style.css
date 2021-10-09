@@ -84,7 +84,7 @@ main {
     margin-left: 1%;
 }
 
-.pini {
+.pinicial {
     background-color: rgba(0, 0, 0, 0.8);
     padding: 12px;
     text-transform: uppercase;
@@ -110,18 +110,15 @@ main {
 .content-header h2 {
     margin: 0;
     text-align: center;
+    text-transform: uppercase;
+    font-family: Consolas, monaco, monospace, sans-serif;
 }
 
 .principal {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 10px;
-    color: #000000;
-    font-size: 15px;
-}
-
-.principal1 {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 15px;
+    font-family: Consolas, monaco, monospace, sans-serif;
+    margin: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
     color: #000000;
     font-size: 20px;
 }
