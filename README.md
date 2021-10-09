@@ -44,7 +44,7 @@ AQUI VAI UM GIF DO PROJETO
 ## Sobre o projeto.
 Desenvolvimento da página de login do Instagram. <br><br>
 Data de conclusão: 09/10/2021<br>
-Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.github.io/" target="_blank">Instagram Login</a>
+Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.io/" target="_blank">Instagram Login</a>
 <br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
