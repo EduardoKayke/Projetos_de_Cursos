@@ -61,7 +61,7 @@ Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.
 
 <div align="center">
 
-<img src="#" alt="" width="400"/>
+<img src="images/instagramprojetofoto.png" alt="" width="800"/>
 
 </div>
 
