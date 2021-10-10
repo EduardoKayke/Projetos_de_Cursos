@@ -91,8 +91,8 @@ Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.githu
 
 <div align="center">
 
-<img src="images/Screenshot_3.png" alt="" width="400"/>
-<img src="images/projeto.gif" alt="" width="400"/>
+<img src="images/fotosite1.png" alt="" width="400"/>
+<img src="images/gif1.gif" alt="" width="400"/>
 
 </div>
 

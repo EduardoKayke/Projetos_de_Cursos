@@ -32,7 +32,7 @@ body {
 }
 
 .hero {
-    background-image: url(../img/foto_header2.jpg);
+    background-image: url(../img/foto_header5.jpg);
     height: 295px; /*Altura*/
     background-position: center; /*Composição da imagem*/
     background-size: cover; /*Cover = ocupar a área inteira mesmo que esconda um pouco da imagem*/
