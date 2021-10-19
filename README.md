@@ -17,10 +17,10 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 <div align="center">
 
-<img src="images/projetosicone1.png" alt="" width="60"/>
-<img src="images/numero0.png" alt="" width="60"/>
-<img src="images/numero0.png" alt="" width="60"/>
-<img src="images/numero3.png" alt="" width="60"/>
+<img src="images/projetosicone1.png" alt="projetos" width="60"/>
+<img src="images/numero0.png" alt="0" width="60"/>
+<img src="images/numero0.png" alt="0" width="60"/>
+<img src="images/numero3.png" alt="3" width="60"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Data de conclusão: 19/10/2021<br><br>
 
 <div align="center">
 
-<img src="images/gif_botoes_laranjas.gif" alt="" width="800"/>
+<img src="images/gif_botoes_laranjas.gif" alt="Botões Laranjas no CSS" width="800"/>
 
 </div>
 
@@ -107,7 +107,7 @@ Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.
 
 <div align="center">
 
-<img src="images/instagramprojetofoto.png" alt="" width="800"/>
+<img src="images/instagramprojetofoto.png" alt="Instagram Login" width="800"/>
 
 </div>
 
@@ -137,8 +137,7 @@ Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.githu
 
 <div align="center">
 
-<img src="images/fotosite1.png" alt="" width="400"/>
-<img src="images/gif1.gif" alt="" width="400"/>
+<img src="images/gif1.gif" alt="Digital Full Stack" width="800"/>
 
 </div>
 
