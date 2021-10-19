@@ -43,8 +43,8 @@ AQUI VAI UM GIF DO PROJETO
 # Botões Animados e Alaranjados.
 
 ## Sobre o projeto.
-Botões desenvolvidos utilizando Keyframe Animation do CSS <br><br>
-Data de conclusão: 18/10/2021<br><br>
+Botões desenvolvidos utilizando Keyframe Animation do CSS. Botões que mudam a cor ao encostar o mouse ou passar com o tab por cima.  <br><br>
+Data de conclusão: 19/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -60,7 +60,7 @@ Data de conclusão: 18/10/2021<br><br>
 
 <div align="center">
 
-AQUI VAI UM GIF DO PROJETO
+<img src="images/gif_botoes_laranjas.gif" alt="" width="800"/>
 
 </div>
 

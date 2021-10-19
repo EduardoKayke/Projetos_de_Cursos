@@ -20,20 +20,20 @@ body {
 
 .pulse1 {
     position: absolute;
-    top: 260px;
-    left: 520px;
+    top: 125px;
+    left: 131px;
 }
 
 .pulse2 {
     position: absolute;
-    top: 260px;
-    left: 627px;
+    top: 125px;
+    left: 234px;
 }
 
 .pulse3 {
     position: absolute;
-    top: 260px;
-    left: 757px;
+    top: 125px;
+    left: 360px;
 }
 
 .pulse:hover, .pulse:focus {
@@ -47,6 +47,6 @@ body {
 @keyframes pulsar {
     50% {
         box-shadow: 0 0 0 0 #ef8f6e;
-        top: 240px;
+        top: 115px;
     }
 }
