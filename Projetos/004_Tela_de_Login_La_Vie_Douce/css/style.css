@@ -71,16 +71,11 @@ header a:visited {
     text-decoration: none;
 }
 
-header a:hover {
-    color: #fabdd0;
-    text-decoration: none;
-}
-
 header h1 {
     font-size: 6em;
     text-align: center;
     margin: 30px auto;    
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine';
 }
 
 footer {
@@ -88,4 +83,9 @@ footer {
     text-align: center;
     margin-top: 20px;    
     font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: 'Tangerine';
+    src: url(../assets/fonts/tangerine/Tangerine-Bold.ttf);
 }
