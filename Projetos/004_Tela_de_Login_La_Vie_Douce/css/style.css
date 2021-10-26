@@ -72,10 +72,10 @@ header a:visited {
 }
 
 header h1 {
-    font-size: 6em;
+    font-size: 5em;
     text-align: center;
-    margin: 30px auto;    
-    font-family: 'Tangerine';
+    margin: 20px auto;    
+    font-family: 'Tangerine', Arial, Helvetica, sans-serif;
 }
 
 footer {
