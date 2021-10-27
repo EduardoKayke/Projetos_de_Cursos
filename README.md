@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
-<img src="images/numero4.png" alt="4" width="60"/>
+<img src="images/numero5.png" alt="5" width="60"/>
 
 </div>
 
@@ -56,11 +56,11 @@ AQUI VAI UM GIF DO PROJETO
 ---
 <div>
 
-# Tabuada.
+# Calculadora de Tabuada.
 
 ## Sobre o projeto.
-Em andamento, projeto tabuada. <br><br>
-Data de conclusão: 00/00/0000<br><br>
+Tabuada desenvolvida com JavaScript, CSS e HTML. Mostrando números de 0 a 10 pelo valor escolhido de calculo. Dando assim o resultado de multiplicações. <br><br>
+Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -76,7 +76,7 @@ Data de conclusão: 00/00/0000<br><br>
 
 <div align="center">
 
-AQUI VAI UM GIF DO PROJETO
+<img src="images/tabuada1.gif" alt="Tela de Login" width="800"/>
 
 </div>
 
