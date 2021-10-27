@@ -56,6 +56,35 @@ AQUI VAI UM GIF DO PROJETO
 ---
 <div>
 
+# Tabuada.
+
+## Sobre o projeto.
+Em andamento, projeto tabuada. <br><br>
+Data de conclusão: 00/00/0000<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+
+<div align="center">
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
+
+</div>
+
+### Clone esse repositório.
+```
+    git clone https://github.com/EduardoKayke/Projetos.git
+``` 
+<br>
+
+<div align="center">
+
+AQUI VAI UM GIF DO PROJETO
+
+</div>
+
+<br><br>
+
+---
+<div>
+
 # Tela de Login La Vie Douce.
 
 ## Sobre o projeto.
