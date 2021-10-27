@@ -59,8 +59,8 @@ AQUI VAI UM GIF DO PROJETO
 # Tela de Login La Vie Douce.
 
 ## Sobre o projeto.
-Botões desenvolvidos utilizando Keyframe Animation do CSS. Botões que mudam a cor ao encostar o mouse ou passar com o tab por cima.  <br><br>
-Data de conclusão: 26/10/2021<br><br>
+Tela de login de uma confeitaria fictícia, La Vie Douce. Inputs com hover deixam rosada a área ao passar o mouse e clicar no botão enviar. Tornei o input obrigatório para envio e com dicas para o usuário.  <br><br>
+Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -76,7 +76,7 @@ Data de conclusão: 26/10/2021<br><br>
 
 <div align="center">
 
-<img src="images/laviedouce.png" alt="Tela de Login" width="800"/>
+<img src="images/laviedouce.gif" alt="Tela de Login" width="800"/>
 
 </div>
 
@@ -93,7 +93,7 @@ Data de conclusão: 19/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="../" target='_blank' alt="javascript" height="75" width="80" /></a>
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
 
 </div>
 
