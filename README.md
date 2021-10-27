@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
-<img src="images/numero3.png" alt="3" width="60"/>
+<img src="images/numero4.png" alt="4" width="60"/>
 
 </div>
 
@@ -56,7 +56,7 @@ AQUI VAI UM GIF DO PROJETO
 ---
 <div>
 
-# Tela de Login.
+# Tela de Login La Vie Douce.
 
 ## Sobre o projeto.
 Botões desenvolvidos utilizando Keyframe Animation do CSS. Botões que mudam a cor ao encostar o mouse ou passar com o tab por cima.  <br><br>
@@ -64,7 +64,7 @@ Data de conclusão: 26/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="JavaScript" height="75" width="80" /></a> 
 
 </div>
 
@@ -76,7 +76,7 @@ Data de conclusão: 26/10/2021<br><br>
 
 <div align="center">
 
-<img src="#" alt="Tela de Login" width="800"/>
+<img src="images/laviedouce.png" alt="Tela de Login" width="800"/>
 
 </div>
 
@@ -93,7 +93,7 @@ Data de conclusão: 19/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="../" target='_blank' alt="javascript" height="75" width="80" /></a>
 
 </div>
 
