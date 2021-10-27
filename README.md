@@ -61,6 +61,8 @@ AQUI VAI UM GIF DO PROJETO
 ## Sobre o projeto.
 Tela de login de uma confeitaria fictícia, La Vie Douce. Inputs com hover deixam rosada a área ao passar o mouse e clicar no botão enviar. Tornei o input obrigatório para envio e com dicas para o usuário.  <br><br>
 Data de conclusão: 27/10/2021<br><br>
+Acesse o site em: <a href="https://eduardokayke.github.io/TeladeLoginLaVieDouce.github.io/" target="_blank">La Vie Douce</a>
+<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
