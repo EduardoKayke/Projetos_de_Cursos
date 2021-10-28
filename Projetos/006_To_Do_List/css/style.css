@@ -43,3 +43,17 @@ footer {
     background-color: rgb(149, 237, 149);
     color: #999;
 }
+
+#new-task {
+    width: 100%;
+    padding: 5px;
+}
+
+.to-do button {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background-color: red;
+    float: right;
+    padding: 0;
+}
