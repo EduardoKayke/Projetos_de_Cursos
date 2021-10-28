@@ -58,7 +58,7 @@ AQUI VAI UM GIF DO PROJETO
 # Netflix.
 
 ## Sobre o projeto.
-Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro. Header com degradê leve em tom de preto de cima para baixo.<br><br>
+Site responsivo da Netflix.<br><br>
 Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
@@ -87,7 +87,7 @@ Data de conclusão: 28/10/2021<br><br>
 # Business.
 
 ## Sobre o projeto.
-Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro. Header com degradê leve em tom de preto de cima para baixo.<br><br>
+Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro. campo menu com degradê leve em tom de preto de cima para baixo.<br><br>
 Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
