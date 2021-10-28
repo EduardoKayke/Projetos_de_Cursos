@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
-<img src="images/numero5.png" alt="5" width="60"/>
+<img src="images/numero6.png" alt="6" width="60"/>
 
 </div>
 
@@ -52,6 +52,34 @@ AQUI VAI UM GIF DO PROJETO
 </div>
 
 <br><br>
+---
+<div>
+
+# Lista de Tarefas.
+
+## Sobre o projeto.
+Lista de tarefas com base em JavaScript. Projeto desenvolvido para mudar a cor ao clicar em concluido e mostrar uma mensagem de aviso ao deletar uma tarefa.<br><br>
+Data de conclusão: 28/10/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+
+<div align="center">
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
+
+</div>
+
+### Clone esse repositório.
+```
+    git clone https://github.com/EduardoKayke/Projetos.git
+``` 
+<br>
+
+<div align="center">
+
+<img src="images/todolist1.gif" alt="Lista de Tarefas" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 <div>
@@ -76,7 +104,7 @@ Data de conclusão: 27/10/2021<br><br>
 
 <div align="center">
 
-<img src="images/tabuada1.gif" alt="Tela de Login" width="800"/>
+<img src="images/tabuada1.gif" alt="Tabuada" width="800"/>
 
 </div>
 
