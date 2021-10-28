@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
-<img src="images/numero6.png" alt="6" width="60"/>
+<img src="images/numero7.png" alt="7" width="60"/>
 
 </div>
 
@@ -52,6 +52,36 @@ AQUI VAI UM GIF DO PROJETO
 </div>
 
 <br><br>
+
+---
+<div>
+
+# Business.
+
+## Sobre o projeto.
+Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro.<br><br>
+Data de conclusão: 28/10/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+
+<div align="center">
+<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
+
+</div>
+
+### Clone esse repositório.
+```
+    git clone https://github.com/EduardoKayke/Projetos.git
+``` 
+<br>
+
+<div align="center">
+
+<img src="images/business1.gif" alt="Lista de Tarefas" width="800"/>
+
+</div>
+
+<br><br>
+
 ---
 <div>
 
