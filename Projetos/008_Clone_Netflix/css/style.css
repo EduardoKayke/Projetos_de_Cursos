@@ -1,0 +1,63 @@
+:root {
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Elementos Base*/
+
+body {
+    background: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times, serif;
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color: #fff;
+}
+
+/*Filme Principal*/
+
+.filme-principal {
+    font-size: 16px;
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)100%), url(../assets/img/um-anel-senhor-dos-aneis-1210x540.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao {
+    margin-bottom: 40px;
+}
+
+.titulo {
+    font-size: 40px;
+}
