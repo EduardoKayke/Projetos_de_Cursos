@@ -58,8 +58,8 @@ AQUI VAI UM GIF DO PROJETO
 # Netflix.
 
 ## Sobre o projeto.
-Site responsivo da Netflix.<br><br>
-Data de conclusão: 28/10/2021<br><br>
+Site responsivo da Netflix. Tema Bruxos e Magos. Site responsivo e com biblioteca do jQuery. Utilizamos o carrossel do jQuery para colocar os filmes da Netflix.<br><br>
+Data de conclusão: 29/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
