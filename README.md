@@ -235,7 +235,7 @@ Data de conclusão: 19/10/2021<br><br>
 # Instagram Login.
 
 ## Sobre o projeto.
-Desenvolvimento da página de login do Instagram. <br><br>
+Desenvolvimento da página de login do Instagram. Junto do login trago o meu perfil e com botões cinzas. Imagens ilustrativas em sua maior parte do projeto. <br><br>
 Data de conclusão: 09/10/2021<br>
 Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.io/" target="_blank">Instagram Login</a>
 <br>
