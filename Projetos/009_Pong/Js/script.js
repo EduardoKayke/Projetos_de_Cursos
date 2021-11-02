@@ -2,6 +2,7 @@ var canvas = document.getElementById('canvas');
 var container = canvas.getContext('2d');
 
 container.fillStyle = "#8b8b8b";
+
 var jogador1 = {
     px: 70,
     py: 260,
@@ -15,6 +16,7 @@ var jogador2 = {
     py: 260,
     tx: 30,
     ty: 200,
+    dir: 8,
 };
 
 var bolinha = {
@@ -23,9 +25,13 @@ var bolinha = {
     tx: 30,
     ty: 30,
     dir: 8,
+    diry: 2,
 };
 
+var jogando = true
+
 container.font = "20px Arial";
+
 var pts1 = 0;
 var pts2 = 0;
 
@@ -47,7 +53,7 @@ document.addEventListener('keyup', function (e) {
     }
 });
 
-function Move_jogador() {
+function moveJogador() {
     if (jogador1.py < 0) {
         jogador1.py = 0
     }
@@ -55,35 +61,90 @@ function Move_jogador() {
         jogador1.py = 520
     }
 
-    jogador1.py += jogador1.dir
+    if (jogador2.py < 0) {
+        jogador2.dir *= -1
+    }
+    else if (jogador2.py > 520) {
+        jogador2.dir *= -1
+    }
+
+    jogador1.py += jogador1.dir    
+    jogador2.py += jogador2.dir    
 };
 
-function Move_Ball() {
-    bolinha.px += bolinha.dir;
+function gameOver() {
+    if (pts1 > 2 || pts2 > 2) {
+        jogando = false
+    }    
+};
 
-    if (bolinha.px > 1200) {
+function moveBall() {
+    bolinha.px += bolinha.dir
+    bolinha.py += bolinha.diry
+
+    if (bolinha.py < 0) {
+        bolinha.diry *= -1
+    } 
+    else if (bolinha.py > 690) {
+        bolinha.diry *= -1
+    }
+};
+
+function points() {
+    if (bolinha.px < -100) {
+        bolinha.px = 625
+        bolinha.py = 345
+        bolinha.dir *= -1
+        pts2 += 1
+    }
+    else if (bolinha.px > 1380) {
+        bolinha.px = 625
+        bolinha.py = 345
+        bolinha.dir *= -1
+        pts1 += 1
+    }
+};
+
+function colisionBall() {
+    if (bolinha.py + bolinha.ty >= jogador2.py && bolinha.py <= jogador2.py + jogador2.ty && bolinha.px <= jogador2.py - jogador2.ty && bolinha.px <= jogador2.px + jogador2.tx && bolinha.px >= jogador2.px - jogador2.tx) {
         bolinha.dir *= -1;
-    } else if (bolinha.px < 80) {
+    } 
+    else if (bolinha.py + bolinha.ty >= jogador1.py && bolinha.py <= jogador1.py + jogador1.ty && bolinha.px <= jogador1.py + jogador1.ty && bolinha.px <= jogador1.px + jogador1.tx && bolinha.px >= jogador1.px - jogador1.tx) {
         bolinha.dir *= -1;
     }
 };
 
-function Draw() {
+function draw() {
     container.fillRect(jogador1.px, jogador1.py, jogador1.tx, jogador1.ty);
     container.fillRect(jogador2.px, jogador2.py, jogador2.tx, jogador2.ty);
     container.fillRect(bolinha.px, bolinha.py, bolinha.tx, bolinha.ty);
-    container.fillText("Score 1: " + pts1, 200, 50);
-    container.fillText("Score 2: " + pts2, 1000, 50);
+    container.fillText("Score 1: " + pts1, 430, 50);
+    container.fillText("Score 2: " + pts2, 730, 50);
 };
 
-function Main() {
+function drawWin() {
     container.clearRect(0, 0, 1280, 720);
-    Draw();
-    Move_Ball();
-    Move_jogador();
+    container.font = '40px Arial'
+    container.fillText("Score 1: " + pts1, 340, 345);
+    container.fillText("Score 2: " + pts2, 740, 345);
+}
+
+function main() {
+    if (jogando) {
+        container.clearRect(0, 0, 1280, 720);
+        draw();
+        moveBall();
+        colisionBall();
+        points();
+        moveJogador();
+        gameOver();
+    }
+    else {
+        drawWin();
+    }
 };
 
-setInterval(Main, 10);
+setInterval(main, 10);
 
 // Para ouvir a tecla de resposta e descobrir seu respectivo número.
 // document.addEventListener('keydown', function(e){console.log(e.keyCode)})
