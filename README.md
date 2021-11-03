@@ -177,8 +177,6 @@ Data de conclusão: 27/10/2021<br><br>
 ## Sobre o projeto.
 Tela de login de uma confeitaria fictícia, La Vie Douce. Inputs com hover deixam rosada a área ao passar o mouse e clicar no botão enviar. Tornei o input obrigatório para envio e com dicas para o usuário.  <br><br>
 Data de conclusão: 27/10/2021<br><br>
-Acesse o site em: <a href="https://eduardokayke.github.io/TeladeLoginLaVieDouce.github.io/" target="_blank">La Vie Douce</a>
-<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -237,8 +235,6 @@ Data de conclusão: 19/10/2021<br><br>
 ## Sobre o projeto.
 Desenvolvimento da página de login do Instagram. Junto do login trago o meu perfil e com botões cinzas. Imagens ilustrativas em sua maior parte do projeto. <br><br>
 Data de conclusão: 09/10/2021<br>
-Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.io/" target="_blank">Instagram Login</a>
-<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
@@ -267,8 +263,6 @@ Acesse o site em: <a href="https://eduardokayke.github.io/instagramlogin.github.
 ## Sobre o projeto.
 Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Apenas a primeira página um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
 Data de conclusão: 09/10/2021<br>
-Acesse o site em: <a href="https://eduardokayke.github.io/digitalfullstack.github.io/" target="_blank">Digital Full Stack</a>
-<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 
 <div align="center">
