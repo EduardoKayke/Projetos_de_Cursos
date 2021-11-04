@@ -27,50 +27,24 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 ---
 <div>
 
-# Pong.
-
-## Sobre o projeto.
-Jogo desenvolvido no Visual Studio Code utilizando HTML, CSS e JavaScript. O game é muito famoso por ser o primeiro jogo desenvolvido pela Atari. <br><br>
-Data de conclusão: 00/00/0000<br><br>
-## Ferramentas e tecnologias usadas nesse projeto.
-
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
-``` 
-<br>
-
-<div align="center">
-
-AQUI VAI UM GIF DO PROJETO
-
-</div>
-
-<br><br>
----
-<div>
-
 # Netflix.
 
 ## Sobre o projeto.
 Site responsivo da Netflix. Tema Bruxos e Magos. Site responsivo e com biblioteca do jQuery. Utilizamos o carrossel do jQuery para colocar os filmes da Netflix.<br><br>
 Data de conclusão: 29/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js    
+function Netflix(Project) {
+    const programmer = "Front-end";
+    
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`
+    } else (Framework) {
+        const Stack = `Usei a biblioteca ${jQuery} para criar a roleta do catálogo.`
+    }
+};
 
-<div align="center">
-
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="80" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a> 
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -91,15 +65,11 @@ Data de conclusão: 29/10/2021<br><br>
 Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro. campo menu com degradê leve em tom de preto de cima para baixo.<br><br>
 Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function Business(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -120,15 +90,11 @@ Data de conclusão: 28/10/2021<br><br>
 Lista de tarefas com base em JavaScript. Projeto desenvolvido para mudar a cor ao clicar em concluido e mostrar uma mensagem de aviso ao deletar uma tarefa.<br><br>
 Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function ListaDeTarefas(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -149,15 +115,11 @@ Data de conclusão: 28/10/2021<br><br>
 Tabuada desenvolvida com JavaScript, CSS e HTML. Mostrando números de 0 a 10 pelo valor escolhido de calculo. Dando assim o resultado de multiplicações. <br><br>
 Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function Tabuada(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="javascript" height="80" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -178,15 +140,11 @@ Data de conclusão: 27/10/2021<br><br>
 Tela de login de uma confeitaria fictícia, La Vie Douce. Inputs com hover deixam rosada a área ao passar o mouse e clicar no botão enviar. Tornei o input obrigatório para envio e com dicas para o usuário.  <br><br>
 Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function LaVieDouce(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/javascript.png" target='_blank' alt="JavaScript" height="75" width="80" /></a> 
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -207,15 +165,11 @@ Data de conclusão: 27/10/2021<br><br>
 Botões desenvolvidos utilizando Keyframe Animation do CSS. Botões que mudam a cor ao encostar o mouse ou passar com o tab por cima.  <br><br>
 Data de conclusão: 19/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function Button(Project) {
+    const FrontEnd = `${HTML}, ${CSS}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -236,15 +190,11 @@ Data de conclusão: 19/10/2021<br><br>
 Desenvolvimento da página de login do Instagram. Junto do login trago o meu perfil e com botões cinzas. Imagens ilustrativas em sua maior parte do projeto. <br><br>
 Data de conclusão: 09/10/2021<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function InstagramLogin(Project) {
+    const FrontEnd = `${HTML}, ${CSS}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
@@ -264,15 +214,11 @@ Data de conclusão: 09/10/2021<br>
 Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Apenas a primeira página um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
 Data de conclusão: 09/10/2021<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
+```js    
+function DigitalFullStack(Project) {
+    const FrontEnd = `${HTML}, ${CSS}`
+};
 
-<div align="center">
-<a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/html.png" target='_blank' alt="html" height="70" width="70" /></a> <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/css.png" target='_blank' alt="css" height="75" width="80" /></a>
-
-</div>
-
-### Clone esse repositório.
-```
-    git clone https://github.com/EduardoKayke/Projetos.git
 ``` 
 <br>
 
