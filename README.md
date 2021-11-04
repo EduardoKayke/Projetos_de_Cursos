@@ -30,7 +30,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 # Netflix.
 
 ## Sobre o projeto.
-Site responsivo da Netflix. Tema Bruxos e Magos. Site responsivo e com biblioteca do jQuery. Utilizamos o carrossel do jQuery para colocar os filmes da Netflix.<br><br>
+Site responsivo da Netflix. Tema Bruxos e Magos. Site responsivo e com biblioteca do jQuery. Utilizei o carrossel do jQuery para colocar os filmes de forma semelhante a do site original.<br><br>
 Data de conclusão: 29/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
@@ -41,7 +41,7 @@ function Netflix(Project) {
     if (Front End) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}`
     } else (Framework) {
-        const Stack = `Usei a biblioteca ${jQuery} para criar a roleta do catálogo.`
+        const Stack = `${jQuery}`
     }
 };
 
