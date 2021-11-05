@@ -39,9 +39,9 @@ function Netflix(Project) {
     const programmer = "Front-end";
     
     if (Front End) {
-        const Stack = `${HTML}, ${CSS}, ${JavaScript}`
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     } else (Framework) {
-        const Stack = `${jQuery}`
+        const Stack = `${jQuery}`;
     }
 };
 
@@ -67,7 +67,7 @@ Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function Business(Project) {
-    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
 };
 
 ``` 
@@ -92,7 +92,7 @@ Data de conclusão: 28/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function ListaDeTarefas(Project) {
-    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
 };
 
 ``` 
@@ -117,7 +117,7 @@ Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function Tabuada(Project) {
-    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
 };
 
 ``` 
@@ -142,7 +142,7 @@ Data de conclusão: 27/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function LaVieDouce(Project) {
-    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
 };
 
 ``` 
@@ -167,7 +167,7 @@ Data de conclusão: 19/10/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function Button(Project) {
-    const FrontEnd = `${HTML}, ${CSS}`
+    const FrontEnd = `${HTML}, ${CSS}`;
 };
 
 ``` 
@@ -192,7 +192,7 @@ Data de conclusão: 09/10/2021<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function InstagramLogin(Project) {
-    const FrontEnd = `${HTML}, ${CSS}`
+    const FrontEnd = `${HTML}, ${CSS}`;
 };
 
 ``` 
@@ -216,7 +216,7 @@ Data de conclusão: 09/10/2021<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function DigitalFullStack(Project) {
-    const FrontEnd = `${HTML}, ${CSS}`
+    const FrontEnd = `${HTML}, ${CSS}`;
 };
 
 ``` 
