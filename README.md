@@ -23,7 +23,9 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/numero9.png" alt="9" width="60"/>
 
 </div>
+
 ---
+
 <div>
 
 # Snake.
