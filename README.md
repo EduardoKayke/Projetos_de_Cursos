@@ -45,7 +45,7 @@ function Snake(Project) {
 
 <div align="center">
 
-<img src="images/snake.gif" alt="Snake" width="800"/>
+<img src="images/snake.gif" alt="Snake" width="400"/>
 
 </div>
 
