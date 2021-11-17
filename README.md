@@ -66,7 +66,7 @@ function Netflix(Project) {
     if (Front End) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     } else (Framework) {
-        const Stack = `${jQuery}`;
+        const StackFramework = `${jQuery}`;
     }
 };
 
