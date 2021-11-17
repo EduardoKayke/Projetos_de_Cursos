@@ -63,8 +63,6 @@ Data de conclusão: 29/10/2021<br><br>
  
 ```js    
 function Netflix(Project) {
-    const programmer = "Front-end";
-    
     if (Front End) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     } else (Framework) {
