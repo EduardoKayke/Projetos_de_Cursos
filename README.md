@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
-<img src="images/numero8.png" alt="8" width="60"/>
+<img src="images/numero9.png" alt="9" width="60"/>
 
 </div>
 ---
