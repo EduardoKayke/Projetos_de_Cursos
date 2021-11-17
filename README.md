@@ -23,6 +23,31 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/numero8.png" alt="8" width="60"/>
 
 </div>
+---
+<div>
+
+# Snake.
+
+## Sobre o projeto.
+Lançado para os fliperamas, o jogo era monocromático e o personagem era movido pelas setas do teclado, porém sua única diferença era sua jogabilidade multiplayer. Seu objetivo também era o mesmo, cada personagem tinha que “comer” o que aparecia na tela e evitar choques contra os muros do cenário.<br><br>
+Data de conclusão: 17/11/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js    
+function Snake(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
+};
+
+``` 
+<br>
+
+<div align="center">
+
+<img src="#" alt="Snake" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 <div>
