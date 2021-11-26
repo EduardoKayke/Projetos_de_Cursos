@@ -26,6 +26,11 @@ function renderizarTarefas(){
         //Adiciona classes no item da lista.
         itemLista.setAttribute('class', 'list-group-item list-group-item-action');
 
+        //Adicionar evento de clique no item da lista.
+        itemLista.onclick = function(){
+            deletarTarefa(this);
+        };
+
         //Cria um texto.
         let itemTexto = document.createTextNode(tarefa);
 
@@ -80,10 +85,20 @@ function removerSpans(){
     };
 };
 
+function deletarTarefa(tarefa){
+    //Remove a tarefa do array.
+    tarefas.splice(tarefas.indexOf(tarefas.textContent), 1);
+
+    //Renderiza novamente a tela.
+    renderizarTarefas();
+};
+
 
 function main(){
     //Executando a função para renderizar as tarefas.
     renderizarTarefas(); 
+
+    deletarTarefa();
 };
 
 main();
