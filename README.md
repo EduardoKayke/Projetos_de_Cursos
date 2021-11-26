@@ -76,7 +76,7 @@ function ListaDeTarefas(Project) {
 
 <div align="center">
 
-<img src="#" alt="Lista de Tarefas" width="400"/>
+<img src="images/011_listadetarefas.gif" alt="Lista de Tarefas" width="800"/>
 
 </div>
 
