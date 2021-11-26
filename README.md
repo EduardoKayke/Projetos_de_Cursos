@@ -58,7 +58,7 @@ function ReflectorButtons(Project) {
 # Lista de Tarefas.
 
 ## Sobre o projeto.
-Lista de tarefas criada para facilitar a rotina diária. Podendo adicionar e remover suas atividades ao longo do dia. Utilizei o Bootstrap para o estilo da página.<br><br>
+Lista de tarefas criada para facilitar a rotina diária. Podendo adicionar e remover suas atividades ao longo do dia. Utilizei o Bootstrap para o estilo da página. As informações são salvas no banco de dados interno do navegador.<br><br>
 Data de conclusão: 17/11/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  

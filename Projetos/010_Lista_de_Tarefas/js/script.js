@@ -6,10 +6,7 @@ let lista = document.querySelector('#lista');
 // Usado para os spans de erro. Local da mensagem.
 let card = document.querySelector('.card');
 
-let tarefas = [
-    'Adicione a Tarefa.',
-    'Remova Clicando na Tarefa.',
-];
+let tarefas = JSON.parse(localStorage.getItem('tarefas')) || [];
 
 function renderizarTarefas(){
     //limpar a listagem de itens antes de renderizar novamente a tela.
@@ -57,6 +54,9 @@ btn.onclick = function(){
 
         // Remove os spans de erro.
         removerSpans();
+
+        //Salva os novos dados no banco de dados.
+        salvarDadosNoStorage();
     }else{
         // Remove os spans de erro para que não se repitam.
         removerSpans();
@@ -88,13 +88,18 @@ function deletarTarefa(tar){
 
     //Renderiza novamente a tela.
     renderizarTarefas();
+
+    //Salva os novos dados no banco de dados.
+    salvarDadosNoStorage();
 };
 
+function salvarDadosNoStorage(){
+    //Todo navegador Web possui essa capacidade.
+    localStorage.setItem('tarefas', JSON.stringify(tarefas));
+};
 
 function main(){
-    //Executando a função para renderizar as tarefas.
-    renderizarTarefas(); 
-
+    renderizarTarefas();
     deletarTarefa();
 };
 
