@@ -28,6 +28,64 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 <div>
 
+# Botões Refletores.
+
+## Sobre o projeto.
+Botões coloridos que passam suas cores por clique. Iluminando a página com a cor escolhida de cada botão.<br><br>
+Data de conclusão: 17/11/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js    
+function ReflectorButtons(Project) {
+    const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
+};
+
+``` 
+<br>
+
+<div align="center">
+
+<img src="images/botoes_refletores.gif" alt="Botão Refletor" width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
+# Lista de Tarefas.
+
+## Sobre o projeto.
+Lista de tarefas criada para facilitar a rotina diária. Podendo adicionar e remover suas atividades ao longo do dia. Utilizei o Bootstrap para o estilo da página.<br><br>
+Data de conclusão: 17/11/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js    
+function ListaDeTarefas(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    } else (Framework) {
+        const Stack = `${Bootstrap}`;
+    }
+};
+
+```
+<br>
+
+<div align="center">
+
+<img src="#" alt="Lista de Tarefas" width="400"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
 # Snake.
 
 ## Sobre o projeto.
