@@ -9,7 +9,6 @@ let card = document.querySelector('.card');
 let tarefas = [
     'Adicione a Tarefa.',
     'Remova Clicando na Tarefa.',
-    '',
 ];
 
 function renderizarTarefas(){
@@ -83,9 +82,9 @@ function removerSpans(){
     };
 };
 
-function deletarTarefa(tarefa){
+function deletarTarefa(tar){
     //Remove a tarefa do array.
-    tarefas.splice(tarefas.indexOf(tarefas.textContent), 1);
+    tarefas.splice(tarefas.indexOf(tar.textContent), 1);
 
     //Renderiza novamente a tela.
     renderizarTarefas();
