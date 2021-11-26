@@ -7,11 +7,9 @@ let lista = document.querySelector('#lista');
 let card = document.querySelector('.card');
 
 let tarefas = [
-    'Jogar GTA V',
-    'Estudar Python',
-    'Estudar JavaScript',
-    'Ver um filme',
-    'Ler um livro',
+    'Adicione a Tarefa.',
+    'Remova Clicando na Tarefa.',
+    '',
 ];
 
 function renderizarTarefas(){
