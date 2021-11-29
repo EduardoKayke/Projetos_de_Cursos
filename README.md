@@ -28,11 +28,42 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 <div>
 
+# Art: Exposição de Artes Urbanas.
+
+## Sobre o projeto.
+Botões coloridos que passam suas cores por clique. Iluminando a página com a cor escolhida de cada botão.<br><br>
+Data de conclusão: 29/11/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function ArtUrbana(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    } else (Framework) {
+        const Stack = `${Bootstrap}`;
+    }
+};
+
+```
+<br>
+
+<div align="center">
+
+<img src="#" alt="Art: Exposição de Artes Urbanas." width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
 # Botões Refletores.
 
 ## Sobre o projeto.
 Botões coloridos que passam suas cores por clique. Iluminando a página com a cor escolhida de cada botão.<br><br>
-Data de conclusão: 17/11/2021<br><br>
+Data de conclusão: 25/11/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js    
