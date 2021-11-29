@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero1.png" alt="1" width="60"/>
+<img src="images/numero2.png" alt="2" width="60"/>
 
 </div>
 
@@ -31,7 +31,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 # Art: Exposição de Artes Urbanas.
 
 ## Sobre o projeto.
-Botões coloridos que passam suas cores por clique. Iluminando a página com a cor escolhida de cada botão.<br><br>
+Descrição...<br><br>
 Data de conclusão: 29/11/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
