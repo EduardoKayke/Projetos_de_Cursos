@@ -18,15 +18,15 @@
     background-position: center;
 }
 
-.btn {
+.btn .btn-dark{
     text-decoration: none;
     background-color: #25282E;
     color: #fff;
     padding: 7px 18px;
-    border-radius: 0;
+    border-radius: 0px;
 }
 
-.btn:hoveer {
+.btn .btn-dark:hover {
     background-color: #333;
     color: #fff;
 }
@@ -67,4 +67,21 @@
 
 #navbar a:hover {
     color: #C1B696;
+}
+
+/*MAIN IMAGE*/
+
+.main-image {
+    height: 400px;
+    background-image: url('../img/g_1.jpg');
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.main-image-info {
+    background-color: #fff;
+    padding: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
 }
