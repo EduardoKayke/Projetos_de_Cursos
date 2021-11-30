@@ -49,7 +49,7 @@ function ArtUrbana(Project) {
 
 <div align="center">
 
-<img src="#" alt="Art: Exposição de Artes Urbanas." width="800"/>
+<img src="images/1art.gif" alt="Art: Exposição de Artes Urbanas." width="800"/>
 
 </div>
 
