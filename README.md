@@ -32,13 +32,13 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 ## Sobre o projeto.
 Site responsivo de projetos artísticos. Galeria de gráfite. A cidade mais viva e com alegria.<br><br>
-Data de conclusão: 29/11/2021<br><br>
+Data de conclusão: 30/11/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
 function ArtUrbana(Project) {
     if (Front End) {
-        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+        const Stack = `${HTML}, ${CSS}`;
     } else (Framework) {
         const Stack = `${Bootstrap}`;
     }
