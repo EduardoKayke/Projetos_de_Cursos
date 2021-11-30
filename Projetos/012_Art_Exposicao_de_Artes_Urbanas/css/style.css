@@ -4,7 +4,7 @@
     color: #25282E;
 }
 
-a, i {
+.a, .i {
     transition: .5s;
     text-decoration: none;
 }
@@ -29,4 +29,42 @@ a, i {
 .btn:hoveer {
     background-color: #333;
     color: #fff;
+}
+
+/* HEADER */
+
+#header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid #CCC;
+}
+
+#header p {
+    margin-bottom: 0;
+}
+
+#logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    width: 40px;
+    margin-right: 15px;
+}
+
+/*NAVBAR*/
+
+#navbar {
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#navbar a {
+    width: 80px;
+    color: #444;
+}
+
+#navbar a:hover {
+    color: #C1B696;
 }
