@@ -31,7 +31,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 # Art: Exposição de Artes Urbanas.
 
 ## Sobre o projeto.
-Site responsivo de projetos artísticos. O gráfite da rua.<br><br>
+Site responsivo de projetos artísticos. Galeria de gráfite. A cidade mais viva e com alegria.<br><br>
 Data de conclusão: 29/11/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
