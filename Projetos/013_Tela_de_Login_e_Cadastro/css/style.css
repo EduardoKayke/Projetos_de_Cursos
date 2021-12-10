@@ -55,6 +55,7 @@
     color: #222;
 }
 
+#form-container input[type="checkbox"]:checked,
 #form-container input[type="submit"] {
     background-color: #6C63FF;
     border-color: #6C63FF;
@@ -62,6 +63,7 @@
 
 .btn.btn-primary {
     width: 100%;
+    margin-top: 25px;
 }
 
 @media(min-width: 768px) {
