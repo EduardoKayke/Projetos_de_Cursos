@@ -20,9 +20,39 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero2.png" alt="2" width="60"/>
+<img src="images/numero4.png" alt="4" width="60"/>
 
 </div>
+
+---
+
+<div>
+
+# Tela de Login e Registro.
+
+## Sobre o projeto.
+Apresenta duas telas uma cadastro e outra de login. Totalmente responsivo para dispositivos móveis e com campos de checkbox para termos de serviço e recebimento de e-mail marketing.<br><br>
+Data de conclusão: 10/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function LoginRegister(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}`;
+    } else (Framework) {
+        const Stack = `${Bootstrap}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/013.gif" alt="Tela de Login e Registro" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
