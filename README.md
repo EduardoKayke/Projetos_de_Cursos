@@ -20,7 +20,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero4.png" alt="4" width="60"/>
+<img src="images/numero6.png" alt="6" width="60"/>
 
 </div>
 
@@ -28,7 +28,35 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 <div>
 
-# Tela de Login e Registro.
+# Pong
+
+## Sobre o projeto.
+Pong é o primeiro videojogo lucrativo da história, dando origem a um novo setor da indústria. Foi de importância fundamental na história do videojogo. Foi criado por Nolan Bushnell e Ted Dabney na forma de um console ligado a um monitor, movido a moedas.<br><br>
+Data de conclusão: 10/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function Pong(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}`;
+    } 
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/14.gif" alt="Pong o jogo." width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
+# Tela de Login e Registro
 
 ## Sobre o projeto.
 Apresenta duas telas uma cadastro e outra de login. Totalmente responsivo para dispositivos móveis e com campos de checkbox para termos de serviço e recebimento de e-mail marketing.<br><br>
@@ -58,7 +86,7 @@ function LoginRegister(Project) {
 
 <div>
 
-# Art: Exposição de Artes Urbanas.
+# Art: Exposição de Artes Urbanas
 
 ## Sobre o projeto.
 Site responsivo de projetos artísticos. Galeria de grafite. A cidade mais viva e com alegria.<br><br>
@@ -89,7 +117,7 @@ function ArtUrbana(Project) {
 
 <div>
 
-# Botões Refletores.
+# Botões Refletores
 
 ## Sobre o projeto.
 Botões coloridos que passam suas cores por clique. Iluminando a página com a cor escolhida de cada botão.<br><br>
@@ -116,7 +144,7 @@ function ReflectorButtons(Project) {
 
 <div>
 
-# Lista de Tarefas.
+# Lista de Tarefas
 
 ## Sobre o projeto.
 Lista de tarefas criada para facilitar a rotina diária. Podendo adicionar e remover suas atividades ao longo do dia. Utilizei o Bootstrap para o estilo da página. As informações são salvas no banco de dados interno do navegador.<br><br>
@@ -147,7 +175,7 @@ function ListaDeTarefas(Project) {
 
 <div>
 
-# Snake.
+# Snake
 
 ## Sobre o projeto.
 Lançado para os fliperamas, o jogo era monocromático e o personagem era movido pelas setas do teclado, porém sua única diferença era sua jogabilidade multiplayer. Seu objetivo também era o mesmo, cada personagem tinha que “comer” o que aparecia na tela e evitar choques contra os muros do cenário.<br><br>
@@ -173,7 +201,7 @@ function Snake(Project) {
 ---
 <div>
 
-# Netflix.
+# Netflix
 
 ## Sobre o projeto.
 Site responsivo da Netflix. Tema Bruxos e Magos. Site responsivo e com biblioteca do jQuery. Utilizei o carrossel do jQuery para colocar os filmes de forma semelhante a do site original.<br><br>
@@ -203,7 +231,7 @@ function Netflix(Project) {
 ---
 <div>
 
-# Business.
+# Business
 
 ## Sobre o projeto.
 Site responsivo desenvolvido para se adequar a telas abaixo de 450 pixels. Com menu e campo de cadastro. campo menu com degradê leve em tom de preto de cima para baixo.<br><br>
@@ -228,7 +256,7 @@ function Business(Project) {
 ---
 <div>
 
-# Lista de Tarefas.
+# Lista de Tarefas
 
 ## Sobre o projeto.
 Lista de tarefas com base em JavaScript. Projeto desenvolvido para mudar a cor ao clicar em concluido e mostrar uma mensagem de aviso ao deletar uma tarefa.<br><br>
@@ -253,7 +281,7 @@ function ListaDeTarefas(Project) {
 ---
 <div>
 
-# Calculadora de Tabuada.
+# Calculadora de Tabuada
 
 ## Sobre o projeto.
 Tabuada desenvolvida com JavaScript, CSS e HTML. Mostrando números de 0 a 10 pelo valor escolhido de calculo. Dando assim o resultado de multiplicações. <br><br>
@@ -278,7 +306,7 @@ function Tabuada(Project) {
 ---
 <div>
 
-# Tela de Login La Vie Douce.
+# Tela de Login La Vie Douce
 
 ## Sobre o projeto.
 Tela de login de uma confeitaria fictícia, La Vie Douce. Inputs com hover deixam rosada a área ao passar o mouse e clicar no botão enviar. Tornei o input obrigatório para envio e com dicas para o usuário.  <br><br>
@@ -303,7 +331,7 @@ function LaVieDouce(Project) {
 ---
 <div>
 
-# Botões Animados e Alaranjados.
+# Botões Animados e Alaranjados
 
 ## Sobre o projeto.
 Botões desenvolvidos utilizando Keyframe Animation do CSS. Botões que mudam a cor ao encostar o mouse ou passar com o tab por cima.  <br><br>
@@ -328,7 +356,7 @@ function Button(Project) {
 ---
 <div>
 
-# Instagram Login.
+# Instagram Login
 
 ## Sobre o projeto.
 Desenvolvimento da página de login do Instagram. Junto do login trago o meu perfil e com botões cinzas. Imagens ilustrativas em sua maior parte do projeto. <br><br>
@@ -352,7 +380,7 @@ function InstagramLogin(Project) {
 ---
 <div>
 
-# Digital Full Stack.
+# Digital Full Stack
 
 ## Sobre o projeto.
 Site estático desenvolvido no Visual Studio Code utilizando HTML e CSS. Apenas a primeira página um site para venda de cursos de uma escola de tecnologia, dei o nome de Digital Full Stack. Desenvolvimento em Full Stack na parte de Front end com as tecnologias de HTML, CSS, JavaScript e Node.js. O principal slogan da escola é:<br><br> Seja um desenvolvedor completo, aprenda HTML, CSS, JavaScript e Node.js. Estude conosco e melhore o seu futuro. A melhor escola de tecnologia do Brasil.<br><br>
