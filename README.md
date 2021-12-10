@@ -20,9 +20,39 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero6.png" alt="6" width="60"/>
+<img src="images/numero7.png" alt="7" width="60"/>
 
 </div>
+
+---
+
+<div>
+
+# Exact Time E-Commerce
+
+## Sobre o projeto.
+E-commerce de uma relojoaria com imagens e catálogos. Site responsivo. Uma loja completa com endereço, valores dos produtos, promoções e vitrine virtual.<br><br>
+Data de conclusão: 10/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function ExactTime(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}`;
+    } else (Framework) {
+        const Stack = `${Bootstrap}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="#" alt="Loja de relógios" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
