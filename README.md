@@ -28,6 +28,36 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 
 <div>
 
+# Agência
+
+## Sobre o projeto.
+Agência<br><br>
+Data de conclusão: 10/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function ExactTime(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}`;
+    } else (Framework) {
+        const Stack = `${Bootstrap}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="#" alt="Agência" width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
 # Exact Time E-Commerce
 
 ## Sobre o projeto.
@@ -49,6 +79,34 @@ function ExactTime(Project) {
 <div align="center">
 
 <img src="#" alt="Loja de relógios" width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+<div>
+
+# Avangers
+
+## Sobre o projeto.
+Este projeto tem como principal objetivo desenvolver o trabalho em equipe. E também servir de portfólio. A conclusão final é uma landing page, modelo escolhido por Eduardo e com informações sobre os Avangers, tema escolhido por Samuel.<br><br>
+Data de conclusão: 10/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function Avangers(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="#" alt="Avangers" width="800"/>
 
 </div>
 
