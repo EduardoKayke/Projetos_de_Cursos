@@ -104,7 +104,7 @@
 
 @media(min-width: 768px) {
     #search-form {
-        min-width: 50%;
+        width: 50%;
         margin: 0;
     }
 }
@@ -127,4 +127,19 @@
 
 #search-form input::placeholder {
     color: #fff;
+}
+
+/*BOTTOM NAVBAR*/
+
+#bottom-navbar-container .container {
+    justify-content: flex-end;
+}
+
+#bottom-navbar-container a {
+    font-weight: 600;
+    color: #fff;
+}
+
+.navbar-toggler {
+    font-size: 1.5em;
 }
