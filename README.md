@@ -78,7 +78,7 @@ function ExactTime(Project) {
 
 <div align="center">
 
-<img src="#" alt="Loja de relógios" width="800"/>
+<img src="images/exacttime.gif" alt="Loja de relógios" width="800"/>
 
 </div>
 
