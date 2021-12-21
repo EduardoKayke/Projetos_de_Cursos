@@ -38,7 +38,7 @@ Data de conclusão: 21/12/2021<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
-function ExactTime(Project) {
+function NumeroAleatorio(Project) {
     if (Front End) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     }
