@@ -20,9 +20,39 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="Projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero7.png" alt="7" width="60"/>
+<img src="images/numero8.png" alt="8" width="60"/>
 
 </div>
+
+---
+
+<div>
+
+# Número Aleatório
+
+## Sobre o projeto.
+Site desenvolvido para devolver um número aleatório. 
+Você digita um valor entre 1 e 10 e ele soma com um número aleatório.
+Caso seja um valor diferente ele retorna uma mensagem de erro.<br><br>
+Data de conclusão: 21/12/2021<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function ExactTime(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/numberrandom.gif" alt="Número Aleatório" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
