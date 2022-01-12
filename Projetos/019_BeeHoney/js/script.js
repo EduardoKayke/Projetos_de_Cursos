@@ -1,19 +1,23 @@
 // Controle do canvas
 var canvas = document.getElementById('canvas').getContext('2d');
 
-var bee = new Obj(200, 500, 100, 100, "yellow");
-var spider = new Obj(100, 100, 100, 100, "black");
+var bee = new Bee(200, 500, 100, 100, "yellow");
+var spider = new Spider(100, 100, 100, 100, "black");
 var spider2 = new Obj(0, 0, 100, 100, "orange");
 
 document.addEventListener('keydown', function(event) {
     if(event.key === "a") {
-        console.log('Olá alunos');
+        bee.dir = -1;
+    }else if(event.key === "d") {
+        bee.dir = 1;
     }
 });
 
 document.addEventListener('keyup', function(event) {
     if(event.key === "a") {
-        console.log('Tchau alunos');
+        bee.dir = 0;
+    }else if(event.key === "d") {
+        bee.dir = 0;
     }
 });
 
@@ -26,12 +30,13 @@ function draw() {
 
 // Atualizar.
 function update() {
-
+    bee.move();
+    spider.move();
 };
 
 // Receber todas as outras informações.
 function main() {
-    canvas.clearRect(0, 0, 1280, 720);
+    canvas.clearRect(0, 0, 500, 900);
     update();
     draw();
 };
