@@ -39,6 +39,8 @@ class Obj{
 class Bee extends Obj{
     // Direção
     dir = 0;
+    lifes = 3;
+    pts = 0;
 
     move() {
         this.x += this.dir;
@@ -81,6 +83,11 @@ class Bg extends Obj{
 
 class Flower extends Spider{
     // Criado para pegar a movimentação de Math.random de Spider.
+
+    respaw() {
+        this.y = -300;
+        this.x = Math.random() * (400 - 0)
+    };
 }
 
 class Text{
@@ -88,5 +95,5 @@ class Text{
         canvas.font = "40px Arial";
         canvas.fillStyle = color;
         canvas.fillText(text, x, y);
-    }
-}
+    };
+};
