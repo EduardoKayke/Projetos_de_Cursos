@@ -20,9 +20,38 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="Projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero1.png" alt="1" width="60"/>
-<img src="images/numero8.png" alt="8" width="60"/>
+<img src="images/numero9.png" alt="9" width="60"/>
 
 </div>
+
+---
+
+<div>
+
+# Bee Honey
+
+## Sobre o projeto.
+Bee Honey, pequeno projeto de jogo. Desenvolvido principalmente para o aprendizado de contrução de objetos e funções. Criado completamente apenas com JavaScript e imagens que usei como recursos gráficos.
+<br><br>
+Data de conclusão: 13/01/2022<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function BeeHoney(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/beehoney.gif" alt="Bee Honey" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
