@@ -42,7 +42,15 @@ class Bee extends Obj{
 
     move() {
         this.x += this.dir;
-    }
+    };
+
+    collide(obj) {
+        if(this.x < obj.x + obj.width && this.x + this.width > obj.x && this.y < obj.y + obj.height && this.y + this.height > obj.y) {
+            return true;
+        } else {
+            return false;
+        };
+    };
 };
 
 class Spider extends Obj{
@@ -53,6 +61,11 @@ class Spider extends Obj{
             this.y = -50;
             this.x = Math.random() * (400 - 0)
         };
+    };
+
+    respaw() {
+        this.y = -300;
+        this.x = Math.random() * (400 - 0)
     };
 };
 
@@ -68,4 +81,12 @@ class Bg extends Obj{
 
 class Flower extends Spider{
     // Criado para pegar a movimentação de Math.random de Spider.
+}
+
+class Text{
+    draw(text, x, y, color) {
+        canvas.font = "40px Arial";
+        canvas.fillStyle = color;
+        canvas.fillText(text, x, y);
+    }
 }

@@ -7,6 +7,8 @@ var bg2 = new Bg(0, -900, 500, 900, "assets/bg.png");
 var bee = new Bee(200, 500, 100, 100, "assets/bee1.png");
 var spider = new Spider(100, 100, 100, 100, "assets/spider1.png");
 var spider2 = new Obj(0, 0, 100, 100, "orange");
+var text_points = new Text();
+var text_lifes = new Text();
 
 document.addEventListener('keydown', function(event) {
     if(event.key === "a") {
@@ -24,6 +26,12 @@ document.addEventListener('keyup', function(event) {
     }
 });
 
+function collides() {
+    if(bee.collide(spider)) {
+        spider.respaw();
+    }
+};
+
 // desenhar
 function draw() {
     bg.draw();
@@ -31,6 +39,8 @@ function draw() {
     bee.draw();
     spider.draw();
     flower.draw();
+    text_points.draw("0", 240, 100, "black");
+    text_lifes.draw("3", 40, 100, "black");
 };
 
 // Atualizar.
@@ -39,10 +49,12 @@ function update() {
     bg2.move(3, 0, -900);
     bee.move();
     bee.animation("bee", 4);
+    bee.collide(spider);
     spider.move();
     spider.animation("spider", 4);
     flower.move();
     flower.animation("flower", 2);
+    collides(); 
 };
 
 // Receber todas as outras informações.
