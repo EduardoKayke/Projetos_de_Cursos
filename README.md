@@ -23,6 +23,34 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/numero9.png" alt="9" width="60"/>
 
 </div>
+---
+
+<div>
+
+# PRESG
+
+## Sobre o projeto.
+Esse projeto foi construído na minha hospedagem. Por tempo limitado. Quando eu desenvolvi, meu objetivo era criar o site da nossa agência de desenvolvedores.
+<br><br>
+Data de conclusão: 19/01/2022<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function PRESG(Project) {
+    if (Front End) {
+        const Stack = `${WordPress}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/Agencia_WordPress_PRESG.gif" alt="PRESG" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
