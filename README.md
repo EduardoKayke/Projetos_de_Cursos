@@ -20,9 +20,37 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="Projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero2.png" alt="2" width="60"/>
-<img src="images/numero0.png" alt="0" width="60"/>
+<img src="images/numero1.png" alt="1" width="60"/>
 
 </div>
+---
+
+<div>
+
+# Desenvolvedor Freelancer
+
+## Sobre o projeto.
+Esse projeto foi construído na minha hospedagem. Por tempo limitado.
+<br><br>
+Data de conclusão: 19/01/2022<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function DesenvolvedorFreelancer(Project) {
+    if (Front End) {
+        const Stack = `${WordPress}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/desenvolvedorfreelancer.jpg" alt="Desenvolvedor Freelancer" width="800"/>
+
+</div>
+
+<br><br>
 
 ---
 
