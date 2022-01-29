@@ -23,9 +23,6 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/numero1.png" alt="1" width="60"/>
 
 </div>
----
-
-<div>
 
 # Desenvolvedor Freelancer
 
