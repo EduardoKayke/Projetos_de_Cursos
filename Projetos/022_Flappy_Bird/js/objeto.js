@@ -13,3 +13,17 @@ class Obj{
         canvas.drawImage(img, this.x, this.y, this.width, this.height);
     };
 };
+
+class Bg extends Obj {
+    move(speed, limit, pos){
+        this.x -= speed;
+
+        if(this.x <= limit){
+            this.x = pos;
+        };
+    };
+};
+
+class Ground extends Bg {
+    
+}
