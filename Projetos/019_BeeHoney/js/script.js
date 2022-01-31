@@ -93,5 +93,3 @@ function main() {
 
 // Chama uma função a cada 10 milissegundos
 setInterval(main, 10);
-
-// 30794958 opcao 7
