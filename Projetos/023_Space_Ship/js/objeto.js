@@ -46,6 +46,10 @@ class Text {
     
     text = "";
 
+    constructor(text){
+        this.text = text;
+    };
+
     draw_text(size, font, x, y, color){
         canvas.font = size + "px" + " " + font;
         canvas.fillStyle = color;
