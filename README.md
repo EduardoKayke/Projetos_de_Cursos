@@ -72,7 +72,7 @@ function FlappyBird(Project) {
 
 <div align="center">
 
-<img src="images/flappybird" alt="Flappy Bird" width="800"/>
+<img src="images/flappybird.gif" alt="Flappy Bird" width="800"/>
 
 </div>
 
