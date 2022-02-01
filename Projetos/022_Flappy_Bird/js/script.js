@@ -6,6 +6,10 @@ var ground = new Ground(0, 700, 500, 200, "assets/images/ground.png");
 var ground2 = new Ground(500, 700, 500, 200, "assets/images/ground.png"); 
 var bird = new Bird(50, 400, 63, 51, "assets/images/bird0.png");
 
+document.addEventListener("click", function(e){
+    bird.vel -= 12;
+});
+
 function draw(){
     bg.draw();
     bg2.draw();
@@ -19,7 +23,9 @@ function update(){
     bg2.move(1, 0, 500);
     ground.move(2, -500, 0);
     ground2.move(2, 0, 500);
+    bird.move();
     bird.animation(8, 4, "bird");
+    bird.limits();  
 };
 
 function main(){

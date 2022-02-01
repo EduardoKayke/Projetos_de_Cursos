@@ -47,4 +47,22 @@ class Ground extends Bg {
 
 class Bird extends Obj {
 
+    vel = 2;
+    grav = 1;
+
+    move(){
+        if(this.vel < 10){
+            this.vel += this.grav;
+        };
+
+        this.y += this.vel;
+    };
+
+    limits(){
+        if(this.y >= 650){
+            this.y = 660;
+        } else if(this.y <= 0){
+            this.y = 0;
+        };
+    };
 };
