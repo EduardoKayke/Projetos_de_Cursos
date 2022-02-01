@@ -20,7 +20,65 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 <img src="images/projetosicone1.png" alt="Projetos" width="60"/>
 <img src="images/numero0.png" alt="0" width="60"/>
 <img src="images/numero2.png" alt="2" width="60"/>
-<img src="images/numero1.png" alt="1" width="60"/>
+<img src="images/numero3.png" alt="3" width="60"/>
+
+</div>
+
+# Space Ship
+
+## Sobre o projeto.
+Esse é um projeto de um jogo muito famoso. Um clone de Space Ship.
+<br><br>
+Data de conclusão: 2/02/2022<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function SpaceShip(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/spaceship" alt="Space Ship" width="800"/>
+
+</div>
+
+<br><br>
+
+---
+
+</div>
+
+# Flappy Bird
+
+## Sobre o projeto.
+Esse é um projeto de um jogo muito famoso. Um clone de Flappy Bird. 
+<br><br>
+Data de conclusão: 01/02/2022<br><br>
+## Ferramentas e tecnologias usadas nesse projeto.
+ 
+```js
+function FlappyBird(Project) {
+    if (Front End) {
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
+    }
+};
+```
+<br>
+
+<div align="center">
+
+<img src="images/flappybird" alt="Flappy Bird" width="800"/>
+
+</div>
+
+<br><br>
+
+---
 
 </div>
 
@@ -29,7 +87,7 @@ Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve
 ## Sobre o projeto.
 Esse projeto foi construído na minha hospedagem. Por tempo limitado.
 <br><br>
-Data de conclusão: 19/01/2022<br><br>
+Data de conclusão: 28/01/2022<br><br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
