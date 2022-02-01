@@ -4,12 +4,14 @@ var bg = new Bg(0, 0, 500, 900, "assets/images/sky.png");
 var bg2 = new Bg(500, 0, 500, 900, "assets/images/sky.png");
 var ground = new Ground(0, 700, 500, 200, "assets/images/ground.png"); 
 var ground2 = new Ground(500, 700, 500, 200, "assets/images/ground.png"); 
+var bird = new Bird(50, 400, 63, 51, "assets/images/bird0.png");
 
 function draw(){
     bg.draw();
     bg2.draw();
     ground.draw();
     ground2.draw();
+    bird.draw();
 };
 
 function update(){
@@ -17,12 +19,14 @@ function update(){
     bg2.move(1, 0, 500);
     ground.move(2, -500, 0);
     ground2.move(2, 0, 500);
+    bird.animation(8, 4, "bird");
 };
 
 function main(){
     canvas.clearRect(0, 0, 500, 900);
     draw();
     update();
+    requestAnimationFrame(main);
 };
 
-setInterval(main, 100);
+main();
