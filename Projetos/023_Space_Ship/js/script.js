@@ -2,7 +2,9 @@ var canvas = document.getElementById('canvas').getContext("2d");
 canvas.imageSmoothingEnabled = false;
 
 document.addEventListener("click", function(e){
-    changeScene(game);
+    if(currentScene.click){
+        currentScene.click();
+    };
 });
 
 document.addEventListener("mousemove", function(e){
@@ -16,6 +18,8 @@ var currentScene = {};
 function changeScene(scene){
     currentScene = scene;
 };
+
+var groupShoot = [];
 
 var infinityBg = {
     bg : new Obj(0, 0, 500, 900, "assets/images/fundo.png"),
@@ -46,6 +50,10 @@ var menu = {
     label : new Text("Click to Play"),
     ship : new Obj(220, 800, 60, 50, "assets/images/nave.png"),
 
+    click(){
+        changeScene(game);
+    },
+
     draw(){
         infinityBg.draw();
         this.title.draw_text(60, "Arial", 100, 300, "White");
@@ -64,15 +72,23 @@ var game = {
     score : new Text("0"),
     ship : new Obj(220, 800, 60, 50, "assets/images/nave.png"),
 
+    click(){
+        groupShoot.push(new Obj(this.ship.x, this.ship.y, 2, 10, "assets/images/tiro.png"));
+    },
+
     moveShip(event){
-        this.ship.x = event.clientX - 290;
-        this.ship.y = event.clientY - 65;
+        this.ship.x = event.offsetX - 30;
+        this.ship.y = event.offsetY - 65;
     },
 
     draw(){
         infinityBg.draw();
         this.score.draw_text(30, "Arial", 40, 40, "White");
         this.ship.draw();
+
+        groupShoot.forEach(shoot => {
+            shoot.draw();
+        });
     },
     
     update(){
