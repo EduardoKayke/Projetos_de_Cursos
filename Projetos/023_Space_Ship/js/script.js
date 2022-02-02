@@ -19,6 +19,10 @@ function changeScene(scene){
     currentScene = scene;
 };
 
+var bullets = 3;
+
+var pts = 0;
+
 var groupShoot = [];
 
 var shoots = {
@@ -61,7 +65,9 @@ var meteors = {
             groupMeteors.forEach((meteors) => {
                 if(shoot.collide(meteors)){
                     groupShoot.splice(groupShoot.indexOf(shoot), 1);
-                    groupMeteors.splice(groupMeteors.indexOf(meteors), 1)
+                    groupMeteors.splice(groupMeteors.indexOf(meteors), 1);
+                    bullets = 1;
+                    pts += 1;
                 };
             });
         });
@@ -81,8 +87,9 @@ var meteors = {
         groupMeteors.forEach((m) => {
             m.move();
 
-            if(m.y > 1000){
+            if(m.y > 900){
                 groupMeteors.splice(groupMeteors.indexOf(m), 1);
+                changeScene(gameover);
             };
         });
     },
@@ -140,7 +147,10 @@ var game = {
     ship : new Obj(220, 800, 60, 50, "assets/images/nave.png"),
 
     click(){
-        groupShoot.push(new Shoot(this.ship.x + this.ship.width / 2, this.ship.y, 2, 10, "assets/images/tiro.png"));
+        if(bullets > 0){
+            bullets -= 1;
+            groupShoot.push(new Shoot(this.ship.x + this.ship.width / 2, this.ship.y, 2, 10, "assets/images/tiro.png"));
+        };
     },
 
     moveShip(event){
@@ -160,6 +170,7 @@ var game = {
         infinityBg.moveBg();
         shoots.update();
         meteors.update();
+        this.score.update_text(pts);
     },
 
 };
@@ -167,14 +178,29 @@ var game = {
 var gameover = {
 
     score : new Text("0"),
+    label_gameover : new Text("Game Over"),
 
     draw(){
         infinityBg.draw();
         this.score.draw_text(30, "Arial", 40, 40, "White");
+        this.label_gameover.draw_text(60, "Arial", 100, 450, "White");
     },
 
     update(){
         infinityBg.moveBg();
+        this.score.update_text(pts);
+    },
+
+    cleanScene(){
+        pts = 0;
+        bullets = 3;
+        groupMeteors = [];
+        groupShoot = [];
+    },
+
+    click(){
+        this.cleanScene();
+        changeScene(menu);
     },
 };
 

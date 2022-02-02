@@ -43,7 +43,7 @@ function SpaceShip(Project) {
 
 <div align="center">
 
-<img src="images/spaceship" alt="Space Ship" width="800"/>
+<img src="images/spaceship.gif" alt="Space Ship" width="800"/>
 
 </div>
 
