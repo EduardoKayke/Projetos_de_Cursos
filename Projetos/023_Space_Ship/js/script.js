@@ -21,6 +21,73 @@ function changeScene(scene){
 
 var groupShoot = [];
 
+var shoots = {
+    draw(){
+        groupShoot.forEach(shoot => {
+            shoot.draw();
+        });
+    },
+
+    update(){
+        groupShoot.forEach(shoot => {
+            shoot.move();
+
+            if(shoot.y <= -100){
+                groupShoot.splice(shoot[0], 1)
+            };
+        });
+    },
+};
+
+var groupMeteors = [];
+var meteors = {
+
+    time: 0,
+
+    spawnMeteors(){
+        this.time += 1;
+
+        size = Math.random() * (80 - 50) + 50;
+        posx = Math.random() * (450 - 10) + 10;
+
+        if(this.time >= 60){
+            this.time = 0;
+            groupMeteors.push(new Meteors(posx, -100, size, size, "assets/images/meteoro.png"))
+        };
+    },
+
+    destroyMeteors(){
+        groupShoot.forEach((shoot) => {
+            groupMeteors.forEach((meteors) => {
+                if(shoot.collide(meteors)){
+                    groupShoot.splice(groupShoot.indexOf(shoot), 1);
+                    groupMeteors.splice(groupMeteors.indexOf(meteors), 1)
+                };
+            });
+        });
+    },
+
+    draw(){
+        groupMeteors.forEach((m) => {
+            m.draw();
+        });
+    },
+
+    update(){
+
+        this.spawnMeteors();
+        this.destroyMeteors();
+
+        groupMeteors.forEach((m) => {
+            m.move();
+
+            if(m.y > 1000){
+                groupMeteors.splice(groupMeteors.indexOf(m), 1);
+            };
+        });
+    },
+};
+
 var infinityBg = {
     bg : new Obj(0, 0, 500, 900, "assets/images/fundo.png"),
     bg2 : new Obj(0, -900, 500, 900, "assets/images/fundo.png"),
@@ -73,7 +140,7 @@ var game = {
     ship : new Obj(220, 800, 60, 50, "assets/images/nave.png"),
 
     click(){
-        groupShoot.push(new Obj(this.ship.x, this.ship.y, 2, 10, "assets/images/tiro.png"));
+        groupShoot.push(new Shoot(this.ship.x + this.ship.width / 2, this.ship.y, 2, 10, "assets/images/tiro.png"));
     },
 
     moveShip(event){
@@ -85,14 +152,14 @@ var game = {
         infinityBg.draw();
         this.score.draw_text(30, "Arial", 40, 40, "White");
         this.ship.draw();
-
-        groupShoot.forEach(shoot => {
-            shoot.draw();
-        });
+        shoots.draw();
+        meteors.draw();
     },
     
     update(){
         infinityBg.moveBg();
+        shoots.update();
+        meteors.update();
     },
 
 };

@@ -56,3 +56,18 @@ class Text {
         canvas.fillText(this.text, x, y);
     };
 };
+
+class Shoot extends Obj {
+    move(){
+        this.y -= 10;
+    };
+};
+
+class Meteors extends Obj {
+
+    speed = Math.random() * (10 - 2) + 2;
+
+    move(){
+        this.y += this.speed;
+    };
+};
