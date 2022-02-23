@@ -6,7 +6,7 @@
 
 
 </div>
-Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack Jr. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. Os projetos estão em ordem de criação, do mais novo para o mais velho. Para que eu consiga comparar meus antigos projetos e ver minha própria evolução.
+Olá, eu sou o Eduardo. Sou Desenvolvedor Full Stack. Esse repositório serve como armazenamento e portfólio para os meus projetos nas mais diversas linguagens e ferramentas. Os projetos estão em ordem de criação, do mais novo para o mais velho. Para que eu consiga comparar meus antigos projetos e ver minha própria evolução.
 <br><br>
 
 <div align="center">
