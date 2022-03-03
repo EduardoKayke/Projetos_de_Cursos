@@ -4,23 +4,18 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 
 ## Lista dos queridinhos!
 
-<hr>
-
-Sites! 
+### Sites! 
 
 [Site - Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone)
 
 [Site - Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack)
 
-<hr>
 
-Jogos!
+### Jogos!
 
+[Jogo - aqui](https://github.com/EduardoKayke/Digital_Full_Stack)
 
-
-<hr>
-
-Atualizando
+[Jogo - aqui 2](https://github.com/EduardoKayke/Digital_Full_Stack)
 
 # Space Ship
 
