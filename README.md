@@ -6,18 +6,20 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 
 ### Sites
 
-[Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - HTML e CSS
+- [Calculadora de Tabuada](https://github.com/EduardoKayke/Calculadora_de_Tabuada) - Habilidades usadas - HTML, CSS e JavaScript
 
-[Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML e CSS
+- [Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - HTML e CSS
+
+- [Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML e CSS
 
 
 ### Jogos
 
-[Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - HTML, CSS e JavaScript
+- [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
-[Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - Habilidades usadas - HTML, CSS e JavaScript
+- [Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
-[Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - HTML, CSS e JavaScript
+- [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
 - [Pong](https://github.com/EduardoKayke/Pong_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
