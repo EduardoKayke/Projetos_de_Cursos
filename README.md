@@ -19,7 +19,9 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 
 [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
-[Pong](https://github.com/EduardoKayke/Pong_Game) - Habilidades usadas - HTML, CSS e JavaScript
+- [Pong](https://github.com/EduardoKayke/Pong_Game) - Habilidades usadas - HTML, CSS e JavaScript
+
+- [Snake](https://github.com/EduardoKayke/Snake_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
 ---
 
@@ -27,6 +29,5 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 >   - [Eduardo Kayke](https://github.com/EduardoKayke "Perfil do Eduardo")
 
 - [Voltar ao perfil do Github.](https://github.com/EduardoKayke "Perfil do Eduardo") 
-- [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
