@@ -6,16 +6,16 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 
 ### Sites
 
-[Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone) - - Habilidades usadas - HTML e CSS
+[Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - HTML e CSS
 
-[Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - - Habilidades usadas - HTML e CSS
+[Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML e CSS
 
 
 ### Jogos
 
-[Space Ship Game](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - HTML, CSS e JavaScript
+[Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
-[aqui 2](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML, CSS e JavaScript
+[Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
 # Space Ship
 
