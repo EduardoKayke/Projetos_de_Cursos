@@ -1,10 +1,20 @@
 # Projetos de Cursos
 Projetos dos Cursos. Desenvolvido durante as aulas!
 
+
 ## Lista dos queridinhos!
+
+<hr>
+
+Sites! 
+
 [Site - Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone)
 
 [Site - Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack)
+
+<hr>
+
+Jogos!
 
 
 
