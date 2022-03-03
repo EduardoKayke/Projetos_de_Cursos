@@ -15,7 +15,11 @@ Projetos dos Cursos. Desenvolvido durante as aulas!
 
 [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
+[Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - Habilidades usadas - HTML, CSS e JavaScript
+
 [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - HTML, CSS e JavaScript
+
+[Pong](https://github.com/EduardoKayke/Pong_Game) - Habilidades usadas - HTML, CSS e JavaScript
 
 # Space Ship
 
