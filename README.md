@@ -11,6 +11,8 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 - [Exact Time E-Commerce](https://github.com/EduardoKayke/Exact_Time_E-Commerce) - Habilidades usadas - HTML, CSS e Bootstrap
 - [Art: Exposição de Artes Urbanas](https://github.com/EduardoKayke/Art_Exposicao_de_Artes_Urbanas) - Habilidades usadas - HTML, CSS e Bootstrap
 - [Tela de Login e Registro](https://github.com/EduardoKayke/Tela_de_Login_e_Registro) - Habilidades usadas - HTML, CSS e Bootstrap
+- [Desenvolvedor Freelancer Wordpress](https://github.com/EduardoKayke/Desenvolvedor_Freelancer) - Habilidades usadas - Wordpress
+- [Agência PRESG Wordpress](https://github.com/EduardoKayke/Desenvolvedor_Freelancer) - Habilidades usadas - Wordpress
 - [Instagram Login](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - HTML e CSS
 - [Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML e CSS
 - [To Do List](https://github.com/EduardoKayke/Lista_de_Tarefa) - Habilidades usadas - HTML, CSS e JavaScript
@@ -19,6 +21,7 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 - [Agência](https://github.com/EduardoKayke/Agencia) - Habilidades usadas - HTML e CSS
 - [Netflix Main Menu](https://github.com/EduardoKayke/Netflix_Main_Menu) - Habilidades usadas - HTML, CSS, JavaScript e JQuery
 - [Business Responsive](https://github.com/EduardoKayke/Business) - Habilidades usadas - HTML e CSS
+- [Lista de Tarefas](https://github.com/EduardoKayke/Lista_de_Tarefas) - Habilidades usadas - HTML, CSS, JavaScript e Bootstrap
 
 
 ### Jogos
