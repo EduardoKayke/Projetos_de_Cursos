@@ -1,6 +1,8 @@
 # Projetos de Cursos
 Projetos dos Cursos. Desenvolvido durante as aulas!
 
+Para ver meus projetos Originais [Clique Aqui](https://github.com/EduardoKayke/Projetos_Originais/blob/main/README.md)
+
 
 ## Lista dos queridinhos!
 
