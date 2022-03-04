@@ -4,10 +4,12 @@ Esse repositório contém os meus projetos dos cursos. Desenvolvido durante as a
 Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayke/Projetos_Originais/blob/main/README.md)
 
 
-## Lista dos queridinhos!
+## Lista dos queridinhos! 
 
 ### Sites
 
+- [Exact Time E-Commerce](https://github.com/EduardoKayke/Exact_Time_E-Commerce) - Habilidades usadas - HTML, CSS e Bootstrap
+- [Art: Exposição de Artes Urbanas](https://github.com/EduardoKayke/Art_Exposicao_de_Artes_Urbanas) - Habilidades usadas - HTML, CSS e Bootstrap
 - [Tela de Login e Registro](https://github.com/EduardoKayke/Tela_de_Login_e_Registro) - Habilidades usadas - HTML, CSS e Bootstrap
 - [Instagram Clone](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - HTML e CSS
 - [Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - HTML e CSS
