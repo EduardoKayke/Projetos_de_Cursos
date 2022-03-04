@@ -1,5 +1,5 @@
 # Projetos de Cursos
-Projetos dos Cursos. Desenvolvido durante as aulas!
+Esse repositório contém os meus projetos dos cursos. Desenvolvido durante as aulas de programação!
 
 Para ver meus projetos Originais [Clique Aqui](https://github.com/EduardoKayke/Projetos_Originais/blob/main/README.md)
 
