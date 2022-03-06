@@ -12,7 +12,7 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 - [Art: Exposição de Artes Urbanas](https://github.com/EduardoKayke/Art_Exposicao_de_Artes_Urbanas) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
 - [Tela de Login e Registro](https://github.com/EduardoKayke/Tela_de_Login_e_Registro) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
 - [Desenvolvedor Freelancer Wordpress](https://github.com/EduardoKayke/Desenvolvedor_Freelancer) - Habilidades usadas - _**Wordpress**_
-- [Agência PRESG Wordpress](https://github.com/EduardoKayke/Desenvolvedor_Freelancer) - Habilidades usadas - _**Wordpress**_
+- [Agência PRESG Wordpress](https://github.com/EduardoKayke/Agencia_Presg) - Habilidades usadas - _**Wordpress**_
 - [Instagram Login](https://github.com/EduardoKayke/Instagram_Clone) - Habilidades usadas - _**HTML e CSS**_
 - [Digital Full Stack](https://github.com/EduardoKayke/Digital_Full_Stack) - Habilidades usadas - _**HTML e CSS**_
 - [To Do List](https://github.com/EduardoKayke/Lista_de_Tarefa) - Habilidades usadas - _**HTML, CSS e JavaScript**_
