@@ -6,8 +6,8 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 ## Lista dos queridinhos! 
 
-### Sites
-
+### Sites 
+- [Questions Of World](https://github.com/EduardoKayke/QuestionsOfWorld) - Habilidades usadas - _**HTML, CSS, Bootstrap, JavaScript, EJS, Express.js, Sequelize.js, Node.js e MySQL**_
 - [Exact Time E-Commerce](https://github.com/EduardoKayke/Exact_Time_E-Commerce) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
 - [Art: Exposição de Artes Urbanas](https://github.com/EduardoKayke/Art_Exposicao_de_Artes_Urbanas) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
 - [Tela de Login e Registro](https://github.com/EduardoKayke/Tela_de_Login_e_Registro) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
