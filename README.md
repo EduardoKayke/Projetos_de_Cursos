@@ -25,8 +25,9 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 - [Lista de Tarefas](https://github.com/EduardoKayke/Lista_de_Tarefas) - Habilidades usadas - _**HTML, CSS, JavaScript e Bootstrap**_
 
 
-### Jogos
+### Jogos 
 
+- [Jogo de Memória Estilo Genius](https://github.com/EduardoKayke/Jogo_de_memoria_estilo_Genius) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
