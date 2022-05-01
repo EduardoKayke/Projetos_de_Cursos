@@ -27,6 +27,7 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 ### Jogos 
 
+- [Jogo da Velha](https://github.com/EduardoKayke/Jogo_da_Velha) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Dinossauro Sem Internet](https://github.com/EduardoKayke/Dinossauro_Sem_Internet) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Jogo Estilo Genius](https://github.com/EduardoKayke/Jogo_estilo_genius) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
