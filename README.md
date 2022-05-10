@@ -6,7 +6,9 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 ## Lista dos queridinhos! 
 
-### Sites
+### Sites 
+
+- [Calculadora com JavaScript](https://github.com/EduardoKayke/Calculadora_com_JavaScript) - Habilidades usadas - _**HTML, CSS e JavaScript**_
 - [React Comments](https://github.com/EduardoKayke/React_Comments) - Habilidades usadas - _**HTML, CSS, JavaScript e React**_
 - [Questions Of World](https://github.com/EduardoKayke/QuestionsOfWorld) - Habilidades usadas - _**HTML, CSS, Bootstrap, JavaScript, EJS, Express.js, Sequelize.js, Node.js e MySQL**_
 - [Exact Time E-Commerce](https://github.com/EduardoKayke/Exact_Time_E-Commerce) - Habilidades usadas - _**HTML, CSS e Bootstrap**_
