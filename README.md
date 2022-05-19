@@ -32,15 +32,15 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 ### Jogos 
 
-- [Jogo de Naves](https://github.com/EduardoKayke/Jogo_de_Naves) - Habilidades usadas - _**HTML, CSS, JavaScript e JQuery**_
-- [Jogo da Velha](https://github.com/EduardoKayke/Jogo_da_Velha) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Dinossauro Sem Internet](https://github.com/EduardoKayke/Dinossauro_Sem_Internet) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Jogo Estilo Genius](https://github.com/EduardoKayke/Jogo_estilo_genius) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Pong](https://github.com/EduardoKayke/Pong_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Snake](https://github.com/EduardoKayke/Snake_Game) - Habilidades usadas - _**HTML, CSS e JavaScript**_
+- [Jogo de Naves](https://github.com/EduardoKayke/Jogo_de_Naves) - 08/05/2022 - _**HTML, CSS, JavaScript e JQuery**_
+- [Jogo da Velha](https://github.com/EduardoKayke/Jogo_da_Velha) - 05/05/2022 - _**HTML, CSS e JavaScript**_
+- [Dinossauro Sem Internet](https://github.com/EduardoKayke/Dinossauro_Sem_Internet) - 27/04/2022 - _**HTML, CSS e JavaScript**_
+- [Jogo Estilo Genius](https://github.com/EduardoKayke/Jogo_estilo_genius) - 15/04/2022 - _**HTML, CSS e JavaScript**_
+- [Space Ship](https://github.com/EduardoKayke/Space_Ship_Game) - 02/02/2022 - _**HTML, CSS e JavaScript**_
+- [Flappy Bird](https://github.com/EduardoKayke/Flappy_Bird_Game) - 01/02/2022 - _**HTML, CSS e JavaScript**_
+- [Bee Honey](https://github.com/EduardoKayke/Bee_Honey_Game) - 13/01/2022 - _**HTML, CSS e JavaScript**_
+- [Pong](https://github.com/EduardoKayke/Pong_Game) - 10/12/2021 - _**HTML, CSS e JavaScript**_
+- [Snake](https://github.com/EduardoKayke/Snake_Game) - 17/11/2021 - _**HTML, CSS e JavaScript**_
 
 ---
 
