@@ -12,9 +12,9 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 ### Sites
 
-- [Fashion](https://github.com/EduardoKayke/Fashion) - Trabalhando - _**HTML e CSS**_
 - [React Comments](https://github.com/EduardoKayke/React_Comments) - Trabalhando - _**HTML, CSS, JavaScript e React**_
-- [Calculadora com JavaScript](https://github.com/EduardoKayke/Calculadora_com_JavaScript) - 12/05/2022 - _**HTML, CSS e JavaScript**_
+- [Calculadora com JavaScript](https://github.com/EduardoKayke/Calculadora_com_JavaScript) - Trabalhando - _**HTML, CSS e JavaScript**_
+- [Fashion](https://github.com/EduardoKayke/Fashion) - Trabalhando - _**HTML e CSS**_
 - [Questions Of World](https://github.com/EduardoKayke/QuestionsOfWorld) - 10/03/2022 - _**HTML, CSS, Bootstrap, JavaScript, EJS, Express.js, Sequelize.js, Node.js e MySQL**_
 - [Desenvolvedor Freelancer Wordpress](https://github.com/EduardoKayke/Desenvolvedor_Freelancer) - 28/01/2022 - _**Wordpress**_
 - [Agência PRESG Wordpress](https://github.com/EduardoKayke/Agencia_Presg) - 19/01/2022 - _**Wordpress**_
