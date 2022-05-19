@@ -10,7 +10,7 @@ Para ver os meus projetos Originais [Clique Aqui](https://github.com/EduardoKayk
 
 - [Em Breve](#) - Data - _**Em breve**_
 
-### Sites https://github.com/EduardoKayke/Fashion
+### Sites
 
 - [Fashion](https://github.com/EduardoKayke/Fashion) - Trabalhando - _**HTML e CSS**_
 - [React Comments](https://github.com/EduardoKayke/React_Comments) - Trabalhando - _**HTML, CSS, JavaScript e React**_
